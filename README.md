@@ -1,5 +1,5 @@
-# [!NOTE]
-# This no longer works because Ryujinx got DMCA'd. Sorry :(
+> [!NOTE]
+> This no longer works because Ryujinx got DMCA'd. Sorry :(
 
 # <img src="https://github.com/PanIntegralus/ryujinx-games-list-webapp/blob/main/public/favicon.png" align="left" width=128 height=128> Ryujinx Games List Webapp
 ## Simple web app to check what games are/aren't working on the Ryujinx emulator.
